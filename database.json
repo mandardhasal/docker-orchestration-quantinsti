@@ -1,0 +1,1 @@
+{"ports":{"min":9000,"max":9010},"pool_size":3,"mappings":[{"con_id":"a7e4ac39c5ac","port":"9008"},{"con_id":"d3f8da33557d","port":"9009"},{"con_id":"5e674e03566c","port":"9005"},{"con_id":"b3e5954bed95","port":"9002"},{"con_id":"2e61361deb3c","port":"9001"}]}
